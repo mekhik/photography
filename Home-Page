@@ -1,4 +1,4 @@
- <!doctype html>
+<!doctype html>
 <html>
 <head>
 
@@ -55,12 +55,15 @@
 			<h1>
 			</h1>
 			<div class="topNav">
-			<a class ="active" href="#Home-Page">Home-Page</a>
+			<a class="active" href="Home-Page.html">Home-Page</a>
 			<a href="Photo-Library.html">Photo-Library</a>
-			<a href="#About-Me">About-Me</a>
-			<a href="#Contact">Contact</a>
+			<a href="About-Me.html">About-Me</a>
+			<a href="Contact.html">Contact</a>
 			</div>
-				<img src="https://images.unsplash.com/photo-1503803548695-c2a7b4a5b875?ixlib=rb-1.2.1&w=1000&q=80" alt="image1" class= "picture">
+			<div>
+			Welcome to the Home-Page. This is where people are directed when they first enter the website.  <br> <br> Have fun!
+			</div>
+				<img src="" alt="image1" class= "picture">
 				<img src="" alt="image2" class= "picture">
 				<img src="" alt="image3" class= "picture">
 		</body>
